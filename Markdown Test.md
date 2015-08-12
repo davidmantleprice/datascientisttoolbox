@@ -1,15 +1,19 @@
 # Header 1 - Markdown Test
-##Header 2
-###Header 3
-####Header 4
+## Header 2
+### Header 3
+#### Header 4
 ##### Header 5
-this is **bold** text
+this is **bold** text  
+
 this is __italic__ text
+
 this is ++underline++ text
+
 this is ~~stikethrough~~ text
-this is ==highlight == text
-this is ^superscript^ text
-this is ~subscript~ text
+
+this is a smiley face  :smile:
+
+
 this bold italic **bold _italic_** text
 **_bold italic_**
 
